@@ -3,7 +3,9 @@
   <img src="assets/logo.svg" alt="" width="96">
 </picture>
 
-# claude-ddd-redesign
+# Claude DDD Redesign
+
+**A Claude Code plugin that re-decomposes legacy services into bounded contexts — with no unadjudicated behavioral change.**
 
 **Domain-Driven Modernization (DDM):** spec-driven development where the spec is discovered, not declared.
 
